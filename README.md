@@ -1,6 +1,7 @@
 Capture the Flag Challenges - Algorand Testnet
 
 This repository contains solutions for three Capture the Flag (CTF) challenges, all conducted on the Algorand Testnet.
+
 Challenge 1: Where is the Flag?
 Task:
 You must find a hidden clue within a deployed smart contract. This clue is stored in the contract’s global storage, and it can be uncovered by analyzing one of its transactions.
